@@ -1,0 +1,29 @@
+{
+  "name": "@bien-bien/css-reset",
+  "version": "0.1.0",
+  "description": "A css reset based on tailwind",
+  "homepage": "https://github.com/bienoubien-studio/css-reset#readme",
+  "bugs": {
+    "url": "https://github.com/bienoubien-studio/css-reset/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bienoubien-studio/css-reset.git"
+  },
+  "license": "MIT",
+  "author": "https://github.com/bienoubien-studio",
+  "type": "module",
+  "main": "dist/reset.css",
+  "style": "dist/reset.css",
+  "files": [
+    "dist"
+  ],
+  "keywords": [
+    "css",
+    "styles",
+    "stylesheet"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
