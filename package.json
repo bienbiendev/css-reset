@@ -1,6 +1,6 @@
 {
   "name": "@bien-bien/css-reset",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A css reset based on tailwind",
   "homepage": "https://github.com/bienoubien-studio/css-reset#readme",
   "bugs": {
